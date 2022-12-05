@@ -1,6 +1,6 @@
-alias AdventOfCode.DayTwo.Input
+alias AdventOfCode.Day02.Input
 
-defmodule AdventOfCode.DayTwo do
+defmodule AdventOfCode.Day02 do
   def go do
     args = Input.input()
 

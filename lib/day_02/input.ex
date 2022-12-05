@@ -1,4 +1,4 @@
-defmodule AdventOfCode.DayTwo.Input do
+defmodule AdventOfCode.Day02.Input do
   def input do
     """
     C Y

@@ -1,5 +1,5 @@
-alias AdventOfCode.DayOne
-alias AdventOfCode.DayTwo
+alias AdventOfCode.Day01
+alias AdventOfCode.Day02
 
 defmodule AdventOfCode do
   @moduledoc """
@@ -20,10 +20,10 @@ defmodule AdventOfCode do
   end
 
   def day_one do
-    DayOne.go()
+    Day01.go()
   end
 
   def day_two do
-    DayTwo.go()
+    Day02.go()
   end
 end

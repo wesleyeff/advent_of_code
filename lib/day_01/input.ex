@@ -1,4 +1,4 @@
-defmodule AdventOfCode.DayOne.Input do
+defmodule AdventOfCode.Day01.Input do
   def input do
     """
     13399

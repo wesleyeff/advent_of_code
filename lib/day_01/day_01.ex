@@ -1,6 +1,6 @@
-alias AdventOfCode.DayOne.Input
+alias AdventOfCode.Day01.Input
 
-defmodule AdventOfCode.DayOne do
+defmodule AdventOfCode.Day01 do
   def get_cals do
     args = Input.input()
 
